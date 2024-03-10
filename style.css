@@ -15,8 +15,8 @@
     border: 10px solid #1d1e4c22;
     max-width: 1000px;
     margin-left: 260px;
-    /* justify-content: center;
-    align-items: center; */
+    justify-content: center;
+    align-items: center;
 }
 .content{
     max-width: 900px; 
